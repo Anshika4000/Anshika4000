@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Ansika Kumari 👋<br>I’m a third-year Computer Science student with a strong interest in front-end development, UI design, and creating smooth user experiences.<br><br>I enjoy building clean, responsive, and visually engaging websites using React.js and modern web technologies. I’ve worked with tools and libraries like GSAP and Swiper.js to add interactivity and better user experience to projects.<br><br>Apart from coding, I also have an interest in poster designing and a basic understanding of AWS/cloud concepts. I’m always looking for opportunities to learn, build, and contribute to meaningful projects.
+Hi, I'm Anshika Kumari 👋<br>I’m a third-year Computer Science student with a strong interest in front-end development, UI design, and creating smooth user experiences.<br><br>I enjoy building clean, responsive, and visually engaging websites using React.js and modern web technologies. I’ve worked with tools and libraries like GSAP and Swiper.js to add interactivity and better user experience to projects.<br><br>Apart from coding, I also have an interest in poster designing and a basic understanding of AWS/cloud concepts. I’m always looking for opportunities to learn, build, and contribute to meaningful projects.
 
 
 ## 🌐 Socials:
